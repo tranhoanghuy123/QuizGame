@@ -1,0 +1,14 @@
+--1110: login //Done
+--1111: Get Email //  Done
+--1112: Forgot Pass //  Done
+--1113: Check Username // Done
+--1114: Register // Done
+--1115: Send Captcha To Email (Register)// Done
+--1116: View Full Infor User // Done
+--1117: Join Room // Done
+--1118: Get IDRoom (Init room) // Done
+--1119: Init Room // Done
+--1120: Init Quest // Done
+--1121: Update Score //Done
+--1122: View Rank // Done
+--1123: Check Room exist // Done
